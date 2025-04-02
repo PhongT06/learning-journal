@@ -2,7 +2,7 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: Phong Truong
-   - Date: 4/01/2025
+   - Date: 4/02/2025
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
@@ -19,7 +19,8 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 [//]: # (The example\(s\) below are EXHAUSTIVE, and should be attinable within the scope of the two weeks. You can have stretch goals if you like, but be reasonable with yourself in terms of what is a fair workload)
    -  Typescript
       - Youtube: TypeScript Course for Beginners - [Watch and review] https://www.youtube.com/watch?v=BwuLxPH8IDs
-      - Udemy: Typescript Course for Beginners - [Watch and review] https://hplearn.udemy.com/course/understanding-typescript/learn/lecture/48858465#learning-tools
+      - Udemy: TypeScript Course for Beginners - [Watch and review] https://hplearn.udemy.com/course/understanding-typescript/learn/lecture/48858465#learning-tools
+      - Codedademy: TypeScript Learn Typescript - [Code challenges and problems] https://www.codecademy.com/courses/learn-typescript
    
 ## Learning Schedule:
 
@@ -27,7 +28,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 
 - Monday [3/31/2025]: Started watching and review Youtube material on Typescript (https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - Tuesday [4/01/2025]: Started Udemy course and going over basic materials in Typescript (https://hplearn.udemy.com/course/understanding-typescript/learn/lecture/48858465#learning-tools)
-- Wednesday [date]:
+- Wednesday [4/02/2025]: Started Codecademy and solve coding challenges and problems (https://www.codecademy.com/courses/learn-typescript)
 - Thursday [date]:
 - Friday [date]:
 - Monday [date]:
@@ -54,3 +55,11 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Learned Arrays and Types, Object Types, Working with Enums  |   
 | Reflection on how I learned today | Today was a good day, working through the courses on Udemy!  |
 | Reflections for the following day| For tomorrow or the day after, I may try to code out a simple project in Typescript |
+
+| Today's Date  |    4/02/2025     | 
+|---|---|
+| What content plan to cover  |  Begin diving into Typescript Codecademy |   
+| What content I actually covered | Codecademy coding challenge and restaurant recommender project |  
+| Reflection on what I learned today |  Learned how to utilize Type: String, Type: Number and implementing into the project challenge provided by Codecademy  |   
+| Reflection on how I learned today | Today was a good day, worked and studied better using Codecademy because it's similar to Multiverse learning modules!  |
+| Reflections for the following day| For tomorrow I will begin to code out a simple project in Typescript |
