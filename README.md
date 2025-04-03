@@ -2,7 +2,7 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: Phong Truong
-   - Date: 4/02/2025
+   - Date: 4/03/2025
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
@@ -29,7 +29,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Monday [3/31/2025]: Started watching and review Youtube material on Typescript (https://www.youtube.com/watch?v=BwuLxPH8IDs)
 - Tuesday [4/01/2025]: Started Udemy course and going over basic materials in Typescript (https://hplearn.udemy.com/course/understanding-typescript/learn/lecture/48858465#learning-tools)
 - Wednesday [4/02/2025]: Started Codecademy and solve coding challenges and problems (https://www.codecademy.com/courses/learn-typescript)
-- Thursday [date]:
+- Thursday [4/03/2025]: Continued working in Codecademy for the first half of the day and began working on a to-do app in TypeScript for the second half.
 - Friday [date]:
 - Monday [date]:
 - Tuesday [date]:
@@ -63,3 +63,11 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Learned how to utilize Type: String, Type: Number and implementing into the project challenge provided by Codecademy  |   
 | Reflection on how I learned today | Today was a good day, worked and studied better using Codecademy because it's similar to Multiverse learning modules!  |
 | Reflections for the following day| For tomorrow I will begin to code out a simple project in Typescript |
+
+| Today's Date  |    4/03/2025     | 
+|---|---|
+| What content plan to cover  |  Continued working in Codecademy and began working on a simple to-do app |   
+| What content I actually covered | Codecademy TypeMart project and started on a to-do app in Typescript |  
+| Reflection on what I learned today |  Learned about working on the TypeMart project in  Codecademy and installing Typescript in Visual Studio Code to work on a to-do app |   
+| Reflection on how I learned today | Today was a good day, worked and studied better using Codecademy because it's similar to Multiverse learning modules! Codecademy helps a lot! |
+| Reflections for the following day| For tomorrow I will begin to work on more projects in Typescript to solidify my learnings for the week |
