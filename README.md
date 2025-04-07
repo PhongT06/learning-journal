@@ -2,7 +2,7 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: Phong Truong
-   - Date: 4/03/2025
+   - Date: 4/07/2025
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
@@ -30,8 +30,8 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Tuesday [4/01/2025]: Started Udemy course and going over basic materials in Typescript (https://hplearn.udemy.com/course/understanding-typescript/learn/lecture/48858465#learning-tools)
 - Wednesday [4/02/2025]: Started Codecademy and solve coding challenges and problems (https://www.codecademy.com/courses/learn-typescript)
 - Thursday [4/03/2025]: Continued working in Codecademy for the first half of the day and began working on a to-do app in TypeScript for the second half.
-- Friday [date]:
-- Monday [date]:
+- Friday [4/04/2025]: Developed a calculator app and using enum TypeScript
+- Monday [4/07/2025]: Developed a quiz app and brainstorm project ideas for Hackathon
 - Tuesday [date]:
 - Wednesday [date]:
 - Thursday [date]:
@@ -71,3 +71,19 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Learned about working on the TypeMart project in  Codecademy and installing Typescript in Visual Studio Code to work on a to-do app |   
 | Reflection on how I learned today | Today was a good day, worked and studied better using Codecademy because it's similar to Multiverse learning modules! Codecademy helps a lot! |
 | Reflections for the following day| For tomorrow I will begin to work on more projects in Typescript to solidify my learnings for the week |
+
+| Today's Date  |    4/04/2025     | 
+|---|---|
+| What content plan to cover  |  Worked on a calculator app |   
+| What content I actually covered | Started on a calculator app in Typescript |  
+| Reflection on what I learned today |  Learned about using Enum TypeScript for the operations in the calculator app |   
+| Reflection on how I learned today | Today was a good day, worked on the calculator app. A minor blocker was writing an error test and figuring out how to make it work in TypeScript |
+| Reflections for the following day| For Monday, I will be working on a different app as I progress and add more TypeScript code and brainstorm ideas for the Hackathon project |
+
+| Today's Date  |    4/07/2025     | 
+|---|---|
+| What content plan to cover  |  Worked on a quiz app and looked up some project ideas for Hackathon |   
+| What content I actually covered | Started on a quiz app in Typescript |  
+| Reflection on what I learned today |  Learned about using interface for a blueprint of the app and readline |   
+| Reflection on how I learned today | Today was a good day, worked on the quiz app. Also, I was looking up some project ideas for Hackathon |
+| Reflections for the following day| For tomorrow, I will be working on a different app as I progress and add more TypeScript code and brainstorm ideas for the Hackathon project |
