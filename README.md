@@ -2,7 +2,7 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: Phong Truong
-   - Date: 4/07/2025
+   - Date: 4/08/2025
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
@@ -32,7 +32,7 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Thursday [4/03/2025]: Continued working in Codecademy for the first half of the day and began working on a to-do app in TypeScript for the second half.
 - Friday [4/04/2025]: Developed a calculator app and using enum TypeScript
 - Monday [4/07/2025]: Developed a quiz app and brainstorm project ideas for Hackathon
-- Tuesday [date]:
+- Tuesday [4/08/2025]: Began working on a full stack project
 - Wednesday [date]:
 - Thursday [date]:
 - Friday [date]:
@@ -87,3 +87,11 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Learned about using interface for a blueprint of the app and readline |   
 | Reflection on how I learned today | Today was a good day, worked on the quiz app. Also, I was looking up some project ideas for Hackathon |
 | Reflections for the following day| For tomorrow, I will be working on a different app as I progress and add more TypeScript code and brainstorm ideas for the Hackathon project |
+
+| Today's Date  |    4/08/2025     | 
+|---|---|
+| What content plan to cover  |  Started working on a full stack project |   
+| What content I actually covered | Began working on the backend in Typescript |  
+| Reflection on what I learned today |  Applied learning on the full stack project |   
+| Reflection on how I learned today | Today was a good day, started on a full stack project. I got the beginnings of the backend working and will be starting on the frontend and connecting the two together |
+| Reflections for the following day| For tomorrow, I will be working on connecting the frontend and adding more Typescript and React |
