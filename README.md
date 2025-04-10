@@ -2,7 +2,7 @@
 A template for SWE apprentices to record and reflection their learnings over the course of their 2nd language learning in SWE2.0 Bootcamp Weeks 9 and 10
 ---
    - Learner: Phong Truong
-   - Date: 4/08/2025
+   - Date: 4/10/2025
 
 ### Resources:
    - [Learning Plan](https://swe-learning-plans.netlify.app/)
@@ -33,8 +33,8 @@ I will have completed the following courses/resources/tasks/artifacts as evidenc
 - Friday [4/04/2025]: Developed a calculator app and using enum TypeScript
 - Monday [4/07/2025]: Developed a quiz app and brainstorm project ideas for Hackathon
 - Tuesday [4/08/2025]: Began working on a full stack project
-- Wednesday [date]:
-- Thursday [date]:
+- Wednesday [4/09/2025]: Continued applied learning to the full stack project
+- Thursday [4/10/2025]: Continued applied learning and adding more functionalities to the full stack project
 - Friday [date]:
   
 --- 
@@ -95,3 +95,19 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Applied learning on the full stack project |   
 | Reflection on how I learned today | Today was a good day, started on a full stack project. I got the beginnings of the backend working and will be starting on the frontend and connecting the two together |
 | Reflections for the following day| For tomorrow, I will be working on connecting the frontend and adding more Typescript and React |
+
+| Today's Date  |    4/09/2025     | 
+|---|---|
+| What content plan to cover  |  Continued working on a full stack project |   
+| What content I actually covered | Began working on the frontend in Typescript |  
+| Reflection on what I learned today |  Continued applied learning on the full stack project |   
+| Reflection on how I learned today | Today was a good day, continued on the full stack project. I got the beginnings of the frontend working and connecting the two together |
+| Reflections for the following day| For tomorrow, I will be working on adding more Typescript and React |
+
+| Today's Date  |    4/10/2025     | 
+|---|---|
+| What content plan to cover  |  Continued working on the full stack project |   
+| What content I actually covered | Adding more content and functionality |  
+| Reflection on what I learned today |  Applied learning on the full stack project |   
+| Reflection on how I learned today | Today was a good day, continued on the full stack project. I got the it connected and modified some files for a more clean and organized format |
+| Reflections for the following day| For tomorrow, I will be working on adding more Typescript and React |
