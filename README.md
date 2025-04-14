@@ -111,3 +111,11 @@ Sentences, bullet points, paragraphs, copy and pastes are welcome!***)
 | Reflection on what I learned today |  Applied learning on the full stack project |   
 | Reflection on how I learned today | Today was a good day, continued on the full stack project. I got the it connected and modified some files for a more clean and organized format |
 | Reflections for the following day| For tomorrow, I will be working on adding more Typescript and React |
+
+| Today's Date  |    4/11/2025     | 
+|---|---|
+| What content plan to cover  |  Continued working on the full stack project and doing a quick rundown of my learnings over the past 2 weeks |   
+| What content I actually covered | Adding more content and functionality and going over some of my learnings on TypeScript |  
+| Reflection on what I learned today | Touched up on compilation and execution, connecting functions and passing values, union types, custom types  |   
+| Reflection on how I learned today | Today was a good day, continued on the full stack project. Brushed up on past learnings to get ready to implement it to the Hackathon project |
+| Reflections for the past week | This past week has been good. After the pivot to Codecademy, I was able to better understand the core materials. I started looking up project ideas and after looking up over 100 ideas, I decided on the finance budgeting app. I started working on a skeleton mvp and were able to connect the backend and frontend together. Towards the end of this week, I began to go back and brush up my learnings and saw that after working on smaller projects earlier this week, I have a better understanding rewatching Udemy courses vs. when I was using Udemy at the beginning of my learnings. I am proud of my progress and looking forward to implementing what I've learned into the Hackathon project! |
